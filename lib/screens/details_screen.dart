@@ -54,6 +54,7 @@ class Details extends StatelessWidget {
                         Text('MacDonalds')
                       ],
                     ),
+                    SizedBox(height: 15,),
                     Row(
                       children: [
                         Expanded(
